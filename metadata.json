@@ -1,0 +1,6 @@
+{
+  "name": "Хотелски мениджър",
+  "description": "Уеб приложение за управление на хотелски стаи, резервации и почистване.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
